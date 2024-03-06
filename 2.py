@@ -22,7 +22,6 @@ def binary_search(numbers, target):
 
 index = binary_search(numbers, number_to_find)
 
-# Print the result
 if index == -1:
     print("Этого числа нет в списке")
 else:
